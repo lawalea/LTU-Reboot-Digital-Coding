@@ -18,3 +18,22 @@ Edited this text CPD and pushed it into Github using Github desktop.
 What did I find hard?
 It took me a few minutes to understand how to set up github desktop and how to push to live. 
 I got a bit confused when cloning the code from the LTU github into my github and then opening it in VS. 
+
+26/01/2021
+Lesson 5 - HTML
+What have I learnt?
+All about HTML including:
+A bit of history
+Difference between HTML, CSS and Javascript
+To make sure I nest my code correctly
+HTML is great for accessability, CSS is more on making things look fancy
+Different types of images
+
+
+How did I use this in practice?
+I did my tasks for module 2. I was able to do them quite quickly which was great. 
+
+
+
+What did I find hard?
+I struggled a bit with the image a link task. I found that Alex had gone a bit fast so I missed what was happening. I was able to work out how to fix it by checking W3 schools. 
