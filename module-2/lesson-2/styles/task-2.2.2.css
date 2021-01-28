@@ -1,3 +1,42 @@
 /* Your code goes below here */
 
+/* 
+selector {
+property: value;
+}
+*/
+p {
+color: #343434;
+font-size: 24px;
+border: 1px solid goldenrod;
+}
+
+a {
+color: green;
+font-size: 28px;
+border: 1px solid blue;
+}
+
+ol, ul {
+color: green;
+background:yellow;
+border: 1px solid red;
+}
+
+li {
+color: purple;
+}
+
+strong {
+color:#34cceb;
+}
+
+em {
+color:#e834eb;
+background:coral;
+}
+
+
+
+  
 /* Your code goes above here */
