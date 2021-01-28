@@ -13,18 +13,17 @@ font-size: 32px;
 }
 
 ul {
-    background-color:green;
-    color:aqua;
+background-color:green;
+color:aqua;
 }
 
 ul em{
-    background-color: pink;
-    color:green;
+background-color: pink;
+color:green;
 }
 
 ul li strong{
-    background-colour:red;
-    color:yellow;
-
+background-color:red;
+color:yellow;
 }
 /* Your code goes above here */
