@@ -12,6 +12,7 @@ function percentageCalculator(number,percent){
         return percentValue;
     } else {
         console.log ('both arguments need to be numbers');
+        return;
     }
 }
 
@@ -20,3 +21,5 @@ console.log(sum);
 
 var sum = percentageCalculator(1000,50);
 console.log(sum);
+
+let otherSum = percentageCalculator('fish', 'oven');
